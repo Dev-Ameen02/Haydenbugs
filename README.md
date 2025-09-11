@@ -1,6 +1,6 @@
 <!-- Intro Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Hayden+%F0%9F%91%8B;Full+Stack+Engineer+%7C+7%2B+Years+Crafting+Solutions;Turning+Ideas+into+Production-Ready+Apps;Innovation+%7C+Scalability+%7C+Impact" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ff6ec7,100:6a5acd&height=220&section=header&text=Hi%2C+I'm+Hayden!+👋&fontSize=45&fontColor=ffffff&animation=twinkling" />
 </p>
 
 ---
