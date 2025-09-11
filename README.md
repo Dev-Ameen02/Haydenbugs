@@ -1,7 +1,10 @@
-<!-- Intro Banner -->
+<!-- Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ff6ec7,100:6a5acd&height=220&section=header&text=Hi%2C+I'm+Hayden!+👋&fontSize=45&fontColor=ffffff&animation=twinkling" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Engineer-Hayden-6a5acd?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=ff6ec7" height="50" />
 </p>
+
+<h1 align="center">👋 Welcome, I'm Hayden</h1>
+<h3 align="center">Building scalable, modern, and user-focused applications for 7+ years</h3>
 
 ---
 
@@ -30,5 +33,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,100:6a5acd&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a5acd,100:ff6ec7&height=120&section=footer" />
 </p>
