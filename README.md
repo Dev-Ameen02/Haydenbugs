@@ -21,15 +21,6 @@
 
 ---
 
-## 📊 Hayden’s GitHub Overview  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hayden&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hayden&theme=radical&hide_border=true" height="180" />
-</p>
-
----
-
 ## 🚀 Highlighted Work  
 
 - ⚡ **AI-Enabled SaaS Platform** – Architected ML-powered modules for real-time insights.  
