@@ -1,9 +1,9 @@
 <!-- Gradient Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Engineer-Hayden-6a5acd?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=ff6ec7" height="50" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Engineer-Ameen-6a5acd?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=ff6ec7" height="50" />
 </p>
 
-<h1 align="center">👋 Welcome, I'm Hayden</h1>
+<h1 align="center">👋 Welcome, I'm Ameen</h1>
 <h3 align="center">Building scalable, modern, and user-focused applications for 7+ years</h3>
 
 ---
